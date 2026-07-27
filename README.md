@@ -119,7 +119,7 @@ Para mejorar la interpretación se priorizaron:
 
 ## Dashboard interactivo
 
-[Ver dashboard en Looker Studio](PEGAR_AQUÍ_EL_ENLACE)
+[Ver dashboard en Looker Studio](https://datastudio.google.com/reporting/bf56af6c-31fd-44c8-97d1-bc3e69253dd9)
 
 > El enlace se encuentra configurado únicamente para visualización.
 
@@ -127,11 +127,13 @@ Para mejorar la interpretación se priorizaron:
 
 ### Página 1: resumen de ventas
 
-![Resumen del dashboard](imagenes/dashboard-resumen.png)
+![Resumen del dashboard](<img width="928" height="654" alt="image" src="https://github.com/user-attachments/assets/28a80b9c-a55c-4a2f-ba36-6ea226af091f" />
+)
 
 ### Página 2: productos y regiones
 
-![Productos y regiones](imagenes/dashboard-productos-regiones.png)
+![Productos y regiones](<img width="926" height="654" alt="image" src="https://github.com/user-attachments/assets/fa45ef19-35d3-44a0-a01a-7066154e6ff9" />
+)
 
 ## Estructura del repositorio
 
